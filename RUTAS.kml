@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="polylines" id="polylines">
+	<SimpleField name="fid" type="float"></SimpleField>
+	<SimpleField name="handle" type="int"></SimpleField>
+	<SimpleField name="block" type="int"></SimpleField>
+	<SimpleField name="etype" type="int"></SimpleField>
+	<SimpleField name="space" type="int"></SimpleField>
+	<SimpleField name="layer" type="string"></SimpleField>
+	<SimpleField name="olinetype" type="string"></SimpleField>
+	<SimpleField name="linetype" type="string"></SimpleField>
+	<SimpleField name="color" type="string"></SimpleField>
+	<SimpleField name="ocolor" type="int"></SimpleField>
+	<SimpleField name="color24" type="int"></SimpleField>
+	<SimpleField name="transparency" type="int"></SimpleField>
+	<SimpleField name="lweight" type="int"></SimpleField>
+	<SimpleField name="linewidth" type="float"></SimpleField>
+	<SimpleField name="ltscale" type="float"></SimpleField>
+	<SimpleField name="visible" type="int"></SimpleField>
+	<SimpleField name="width" type="float"></SimpleField>
+	<SimpleField name="thickness" type="float"></SimpleField>
+	<SimpleField name="ext" type="string"></SimpleField>
+</Schema>
+<Folder><name>polylines</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#polylines">
+		<SimpleData name="fid">855</SimpleData>
+		<SimpleData name="handle">85</SimpleData>
+		<SimpleData name="block">-1</SimpleData>
+		<SimpleData name="etype">18</SimpleData>
+		<SimpleData name="space">0</SimpleData>
+		<SimpleData name="layer">RUTAS</SimpleData>
+		<SimpleData name="olinetype">BYLAYER</SimpleData>
+		<SimpleData name="linetype"></SimpleData>
+		<SimpleData name="color">192,192,192,254</SimpleData>
+		<SimpleData name="ocolor">256</SimpleData>
+		<SimpleData name="color24">-1</SimpleData>
+		<SimpleData name="transparency">0</SimpleData>
+		<SimpleData name="lweight">-1</SimpleData>
+		<SimpleData name="linewidth">0</SimpleData>
+		<SimpleData name="ltscale">1</SimpleData>
+		<SimpleData name="visible">1</SimpleData>
+		<SimpleData name="width">0</SimpleData>
+		<SimpleData name="thickness">0</SimpleData>
+		<SimpleData name="ext">(3:0,0,0.1)</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#polylines">
+		<SimpleData name="fid">856</SimpleData>
+		<SimpleData name="handle">88</SimpleData>
+		<SimpleData name="block">-1</SimpleData>
+		<SimpleData name="etype">18</SimpleData>
+		<SimpleData name="space">0</SimpleData>
+		<SimpleData name="layer">RUTAS</SimpleData>
+		<SimpleData name="olinetype">BYLAYER</SimpleData>
+		<SimpleData name="linetype"></SimpleData>
+		<SimpleData name="color">192,192,192,254</SimpleData>
+		<SimpleData name="ocolor">256</SimpleData>
+		<SimpleData name="color24">-1</SimpleData>
+		<SimpleData name="transparency">0</SimpleData>
+		<SimpleData name="lweight">-1</SimpleData>
+		<SimpleData name="linewidth">0</SimpleData>
+		<SimpleData name="ltscale">1</SimpleData>
+		<SimpleData name="visible">1</SimpleData>
+		<SimpleData name="width">0</SimpleData>
+		<SimpleData name="thickness">0</SimpleData>
+		<SimpleData name="ext">(3:0,0,0.1)</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#polylines">
+		<SimpleData name="fid">859</SimpleData>
+		<SimpleData name="handle">1244</SimpleData>
+		<SimpleData name="block">-1</SimpleData>
+		<SimpleData name="etype">18</SimpleData>
+		<SimpleData name="space">0</SimpleData>
+		<SimpleData name="layer">RUTAS</SimpleData>
+		<SimpleData name="olinetype">BYLAYER</SimpleData>
+		<SimpleData name="linetype"></SimpleData>
+		<SimpleData name="color">192,192,192,254</SimpleData>
+		<SimpleData name="ocolor">256</SimpleData>
+		<SimpleData name="color24">-1</SimpleData>
+		<SimpleData name="transparency">0</SimpleData>
+		<SimpleData name="lweight">-1</SimpleData>
+		<SimpleData name="linewidth">0</SimpleData>
+		<SimpleData name="ltscale">1</SimpleData>
+		<SimpleData name="visible">1</SimpleData>
+		<SimpleData name="width">0</SimpleData>
+		<SimpleData name="thickness">1</SimpleData>
+		<SimpleData name="ext">(3:0,0,0.1)</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#polylines">
+		<SimpleData name="fid">860</SimpleData>
+		<SimpleData name="handle">1245</SimpleData>
+		<SimpleData name="block">-1</SimpleData>
+		<SimpleData name="etype">18</SimpleData>
+		<SimpleData name="space">0</SimpleData>
+		<SimpleData name="layer">RUTAS</SimpleData>
+		<SimpleData name="olinetype">BYLAYER</SimpleData>
+		<SimpleData name="linetype"></SimpleData>
+		<SimpleData name="color">192,192,192,254</SimpleData>
+		<SimpleData name="ocolor">256</SimpleData>
+		<SimpleData name="color24">-1</SimpleData>
+		<SimpleData name="transparency">0</SimpleData>
+		<SimpleData name="lweight">-1</SimpleData>
+		<SimpleData name="linewidth">0</SimpleData>
+		<SimpleData name="ltscale">1</SimpleData>
+		<SimpleData name="visible">1</SimpleData>
+		<SimpleData name="width">0</SimpleData>
+		<SimpleData name="thickness">1</SimpleData>
+		<SimpleData name="ext">(3:0,0,0.1)</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#polylines">
+		<SimpleData name="fid">861</SimpleData>
+		<SimpleData name="handle">1246</SimpleData>
+		<SimpleData name="block">-1</SimpleData>
+		<SimpleData name="etype">18</SimpleData>
+		<SimpleData name="space">0</SimpleData>
+		<SimpleData name="layer">RUTAS</SimpleData>
+		<SimpleData name="olinetype">BYLAYER</SimpleData>
+		<SimpleData name="linetype"></SimpleData>
+		<SimpleData name="color">192,192,192,254</SimpleData>
+		<SimpleData name="ocolor">256</SimpleData>
+		<SimpleData name="color24">-1</SimpleData>
+		<SimpleData name="transparency">0</SimpleData>
+		<SimpleData name="lweight">-1</SimpleData>
+		<SimpleData name="linewidth">0</SimpleData>
+		<SimpleData name="ltscale">1</SimpleData>
+		<SimpleData name="visible">1</SimpleData>
+		<SimpleData name="width">0</SimpleData>
+		<SimpleData name="thickness">1</SimpleData>
+		<SimpleData name="ext">(3:0,0,0.1)</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#polylines">
+		<SimpleData name="fid">5162</SimpleData>
+		<SimpleData name="handle">9151</SimpleData>
+		<SimpleData name="block">-1</SimpleData>
+		<SimpleData name="etype">18</SimpleData>
+		<SimpleData name="space">0</SimpleData>
+		<SimpleData name="layer">RUTAS</SimpleData>
+		<SimpleData name="olinetype">BYLAYER</SimpleData>
+		<SimpleData name="linetype"></SimpleData>
+		<SimpleData name="color">192,192,192,254</SimpleData>
+		<SimpleData name="ocolor">256</SimpleData>
+		<SimpleData name="color24">-1</SimpleData>
+		<SimpleData name="transparency">0</SimpleData>
+		<SimpleData name="lweight">-1</SimpleData>
+		<SimpleData name="linewidth">0</SimpleData>
+		<SimpleData name="ltscale">1</SimpleData>
+		<SimpleData name="visible">1</SimpleData>
+		<SimpleData name="width">0</SimpleData>
+		<SimpleData name="thickness">0</SimpleData>
+		<SimpleData name="ext">(3:0,0,0.1)</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#polylines">
+		<SimpleData name="fid">5163</SimpleData>
+		<SimpleData name="handle">9152</SimpleData>
+		<SimpleData name="block">-1</SimpleData>
+		<SimpleData name="etype">18</SimpleData>
+		<SimpleData name="space">0</SimpleData>
+		<SimpleData name="layer">RUTAS</SimpleData>
+		<SimpleData name="olinetype">BYLAYER</SimpleData>
+		<SimpleData name="linetype"></SimpleData>
+		<SimpleData name="color">192,192,192,254</SimpleData>
+		<SimpleData name="ocolor">256</SimpleData>
+		<SimpleData name="color24">-1</SimpleData>
+		<SimpleData name="transparency">0</SimpleData>
+		<SimpleData name="lweight">-1</SimpleData>
+		<SimpleData name="linewidth">0</SimpleData>
+		<SimpleData name="ltscale">1</SimpleData>
+		<SimpleData name="visible">1</SimpleData>
+		<SimpleData name="width">0</SimpleData>
+		<SimpleData name="thickness">0</SimpleData>
+		<SimpleData name="ext">(3:0,0,0.1)</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#polylines">
+		<SimpleData name="fid">5178</SimpleData>
+		<SimpleData name="handle">9808</SimpleData>
+		<SimpleData name="block">-1</SimpleData>
+		<SimpleData name="etype">18</SimpleData>
+		<SimpleData name="space">0</SimpleData>
+		<SimpleData name="layer">RUTAS</SimpleData>
+		<SimpleData name="olinetype">BYLAYER</SimpleData>
+		<SimpleData name="linetype"></SimpleData>
+		<SimpleData name="color">192,192,192,254</SimpleData>
+		<SimpleData name="ocolor">256</SimpleData>
+		<SimpleData name="color24">-1</SimpleData>
+		<SimpleData name="transparency">0</SimpleData>
+		<SimpleData name="lweight">-1</SimpleData>
+		<SimpleData name="linewidth">0</SimpleData>
+		<SimpleData name="ltscale">1</SimpleData>
+		<SimpleData name="visible">1</SimpleData>
+		<SimpleData name="width">0</SimpleData>
+		<SimpleData name="thickness">1</SimpleData>
+		<SimpleData name="ext">(3:0,0,0.1)</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#polylines">
+		<SimpleData name="fid">10089</SimpleData>
+		<SimpleData name="handle">17095</SimpleData>
+		<SimpleData name="block">-1</SimpleData>
+		<SimpleData name="etype">18</SimpleData>
+		<SimpleData name="space">0</SimpleData>
+		<SimpleData name="layer">RUTAS</SimpleData>
+		<SimpleData name="olinetype">BYLAYER</SimpleData>
+		<SimpleData name="linetype"></SimpleData>
+		<SimpleData name="color">192,192,192,254</SimpleData>
+		<SimpleData name="ocolor">256</SimpleData>
+		<SimpleData name="color24">-1</SimpleData>
+		<SimpleData name="transparency">0</SimpleData>
+		<SimpleData name="lweight">-1</SimpleData>
+		<SimpleData name="linewidth">0</SimpleData>
+		<SimpleData name="ltscale">1</SimpleData>
+		<SimpleData name="visible">1</SimpleData>
+		<SimpleData name="width">0</SimpleData>
+		<SimpleData name="thickness">0</SimpleData>
+		<SimpleData name="ext">(3:0,0,0.1)</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#polylines">
+		<SimpleData name="fid">10090</SimpleData>
+		<SimpleData name="handle">17096</SimpleData>
+		<SimpleData name="block">-1</SimpleData>
+		<SimpleData name="etype">18</SimpleData>
+		<SimpleData name="space">0</SimpleData>
+		<SimpleData name="layer">RUTAS</SimpleData>
+		<SimpleData name="olinetype">BYLAYER</SimpleData>
+		<SimpleData name="linetype"></SimpleData>
+		<SimpleData name="color">192,192,192,254</SimpleData>
+		<SimpleData name="ocolor">256</SimpleData>
+		<SimpleData name="color24">-1</SimpleData>
+		<SimpleData name="transparency">0</SimpleData>
+		<SimpleData name="lweight">-1</SimpleData>
+		<SimpleData name="linewidth">0</SimpleData>
+		<SimpleData name="ltscale">1</SimpleData>
+		<SimpleData name="visible">1</SimpleData>
+		<SimpleData name="width">0</SimpleData>
+		<SimpleData name="thickness">0</SimpleData>
+		<SimpleData name="ext">(3:0,0,0.1)</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#polylines">
+		<SimpleData name="fid">10106</SimpleData>
+		<SimpleData name="handle">17755</SimpleData>
+		<SimpleData name="block">-1</SimpleData>
+		<SimpleData name="etype">18</SimpleData>
+		<SimpleData name="space">0</SimpleData>
+		<SimpleData name="layer">RUTAS</SimpleData>
+		<SimpleData name="olinetype">BYLAYER</SimpleData>
+		<SimpleData name="linetype"></SimpleData>
+		<SimpleData name="color">192,192,192,254</SimpleData>
+		<SimpleData name="ocolor">256</SimpleData>
+		<SimpleData name="color24">-1</SimpleData>
+		<SimpleData name="transparency">0</SimpleData>
+		<SimpleData name="lweight">-1</SimpleData>
+		<SimpleData name="linewidth">0</SimpleData>
+		<SimpleData name="ltscale">1</SimpleData>
+		<SimpleData name="visible">1</SimpleData>
+		<SimpleData name="width">0</SimpleData>
+		<SimpleData name="thickness">1</SimpleData>
+		<SimpleData name="ext">(3:0,0,0.1)</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#polylines">
+		<SimpleData name="fid">10107</SimpleData>
+		<SimpleData name="handle">17756</SimpleData>
+		<SimpleData name="block">-1</SimpleData>
+		<SimpleData name="etype">18</SimpleData>
+		<SimpleData name="space">0</SimpleData>
+		<SimpleData name="layer">RUTAS</SimpleData>
+		<SimpleData name="olinetype">BYLAYER</SimpleData>
+		<SimpleData name="linetype"></SimpleData>
+		<SimpleData name="color">192,192,192,254</SimpleData>
+		<SimpleData name="ocolor">256</SimpleData>
+		<SimpleData name="color24">-1</SimpleData>
+		<SimpleData name="transparency">0</SimpleData>
+		<SimpleData name="lweight">-1</SimpleData>
+		<SimpleData name="linewidth">0</SimpleData>
+		<SimpleData name="ltscale">1</SimpleData>
+		<SimpleData name="visible">1</SimpleData>
+		<SimpleData name="width">0</SimpleData>
+		<SimpleData name="thickness">1</SimpleData>
+		<SimpleData name="ext">(3:0,0,0.1)</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+</Folder>
+</Document></kml>
